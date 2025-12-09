@@ -1,1 +1,6 @@
----\nid: design-system\ntitle: Design System\n---\n\nDesign tokens + patterns.
+---
+id: design-system
+title: Design System
+---
+
+Design tokens + patterns.

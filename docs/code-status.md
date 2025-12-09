@@ -1,1 +1,6 @@
----\nid: code-status\ntitle: Code Status\n---\n\nStatus legend.
+---
+id: code-status
+title: Code Status
+---
+
+Status legend.

@@ -1,1 +1,6 @@
----\nid: lab-units\ntitle: Lab Units\n---\n\nLab unit structure.
+---
+id: lab-units
+title: Lab Units
+---
+
+Lab unit structure.

@@ -1,1 +1,6 @@
----\nid: department-guide\ntitle: Department Guide\n---\n\nDepartments info.
+---
+id: department-guide
+title: Department Guide
+---
+
+Departments info.

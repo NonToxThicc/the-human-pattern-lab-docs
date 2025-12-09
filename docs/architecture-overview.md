@@ -1,1 +1,6 @@
----\nid: architecture-overview\ntitle: Architecture Overview\n---\n\nArchitecture details.
+---
+id: architecture-overview
+title: Architecture Overview
+---
+
+Architecture details.

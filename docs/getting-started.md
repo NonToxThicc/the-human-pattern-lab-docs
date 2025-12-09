@@ -1,1 +1,6 @@
----\nid: getting-started\ntitle: Getting Started\n---\n\nWelcome to the Lab docs.
+---
+id: getting-started
+title: Getting Started
+---
+
+Welcome to the Lab docs.

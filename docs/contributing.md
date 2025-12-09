@@ -1,1 +1,6 @@
----\nid: contributing\ntitle: Contributing\n---\n\nContribution guide.
+---
+id: contributing
+title: Contributing
+---
+
+Contribution guide.
