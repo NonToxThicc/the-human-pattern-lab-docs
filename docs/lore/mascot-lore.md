@@ -1,5 +1,6 @@
 ---
 id: mascot-lore
+slug: /lore/mascot-lore
 title: 🐾 Mascot Lore
 ---
 

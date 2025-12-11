@@ -1,7 +1,7 @@
 echo "😼 Carmel is checking your spacing..."
 
 npx lint-staged || {
-  echo "😼❌ Carmel rejects this commit. Fix your spacing."
+  echo "😼❌ Carmel rejects this commit. Fix your formatting."
   exit 1
 }
 

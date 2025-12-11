@@ -65,10 +65,6 @@ const config = {
               label: 'Docs',
               to: '/getting-started',
             },
-            {
-              label: 'Mascot Lore',
-              to: '/mascot-lore',
-            },
           ],
         },
         {
